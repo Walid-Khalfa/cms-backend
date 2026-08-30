@@ -3,7 +3,7 @@ from django.db import migrations, models
 
 class Migration(migrations.Migration):
     dependencies = [
-        ("content", "0049_recitation_track_folder_constraints"),
+        ("content", "0052_merge_20260826_1701"),
     ]
 
     operations = [
